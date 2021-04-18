@@ -2,11 +2,11 @@
 
 *A frontend Developer who Loves to speak JavaScript and Listen to APIs*
 
-![](./assets/her.svg)
+![](./assets/hero.svg)
 
 ----
 
-![](/assets/her.svg)
+![](/assets/hero.svg)
 
 <!--
 **guptstagram/guptstagram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
