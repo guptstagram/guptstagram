@@ -2,7 +2,7 @@
 
 *A frontend Developer who Loves to speak JavaScript and Listen to APIs*
 
-![](./assets/hero.svg = 200x)
+![](./assets/hero.svg)
 
 ----
 
